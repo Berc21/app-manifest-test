@@ -4,8 +4,8 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "browser",
-  "Scope": "/app-manifest-test/",
-  "start_url": "/app-manifest-test/",
+  "Scope": "/",
+  "start_url": ".",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
